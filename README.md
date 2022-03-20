@@ -1,1 +1,1 @@
-# play-loshara
+# NVcoder-pidor
